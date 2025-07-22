@@ -1,6 +1,5 @@
 import datetime
 
-
 lesson = input("What did you learn today? ")
 
 def daily_learning_logger(msg):
